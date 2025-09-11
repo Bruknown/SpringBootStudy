@@ -1,1 +1,0 @@
-[![Build Status](https://app.travis-ci.com/Bruknown/SpringBootStudy.svg?token=JoC5KJe6HfYNScMZtoMe&branch=main)](https://app.travis-ci.com/Bruknown/SpringBootStudy)
